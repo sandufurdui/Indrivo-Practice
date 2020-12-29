@@ -1,0 +1,13 @@
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\obj\Debug\Library_GUI.csprojAssemblyReference.cache
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\obj\Debug\Library_GUI.Properties.Resources.resources
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\obj\Debug\Library_GUI.csproj.GenerateResource.cache
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\obj\Debug\Library_GUI.csproj.CoreCompileInputs.cache
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\bin\Debug\Library_GUI.exe.config
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\bin\Debug\Library_GUI.exe
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\bin\Debug\Library_GUI.pdb
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\obj\Debug\Library_GUI.exe
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\obj\Debug\Library_GUI.pdb
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\obj\Debug\Library_GUI.StudentsForm.resources
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\obj\Debug\Library_GUI.AuthorsForm.resources
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\obj\Debug\Library_GUI.BooksForm.resources
+C:\Users\sandu\OneDrive\Desktop\Indrivo_Practice\Library_GUI\Library_GUI\obj\Debug\Library_GUI.BorrowsForm.resources
